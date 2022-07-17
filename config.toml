@@ -1,0 +1,6 @@
+baseURL = "arturomedinamerino.github.io"
+languageCode = "en-us"
+title = "Arturo's personal blog"
+theme = "cactus"
+[params]
+    logo = false
