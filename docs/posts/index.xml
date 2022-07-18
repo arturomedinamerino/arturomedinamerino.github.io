@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arturo&#39;s personal blog</title>
-    <link>https://arturomedinamerino.github.io/</link>
-    <description>Recent content on Arturo&#39;s personal blog</description>
+    <title>Posts on Arturo&#39;s personal blog</title>
+    <link>https://arturomedinamerino.github.io/posts/</link>
+    <description>Recent content in Posts on Arturo&#39;s personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 22:28:19 +0200</lastBuildDate><atom:link href="https://arturomedinamerino.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jul 2022 22:28:19 +0200</lastBuildDate><atom:link href="https://arturomedinamerino.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://arturomedinamerino.github.io/posts/my-first-post/</link>
