@@ -1,4 +1,4 @@
-baseURL = "arturomedinamerino.github.io"
+baseURL = "https://arturomedinamerino.github.io/"
 languageCode = "en-us"
 title = "Arturo's personal blog"
 theme = "cactus"
